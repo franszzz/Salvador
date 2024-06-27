@@ -1,3 +1,3 @@
 # Salvador
-para professor Salvador acesso ao banco:
+para professor Salvador
 
